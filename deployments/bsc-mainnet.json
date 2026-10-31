@@ -1,0 +1,17 @@
+{
+  "network": "BSC mainnet",
+  "chainId": 56,
+  "architecture": "UUPS implementation + ERC1967Proxy",
+  "proxy": "0x99eF9777462152Fe2d0271FC326022a639B3810b",
+  "implementationAtDeployment": "0xD4ec25b03926cb2452BD57B88931b3cAf8CA31bF",
+  "initialOwnerAtDeployment": "0x5CaDEB3f76bf40D50fa1D96ee70CE7f2d8c01F6B",
+  "protocolVersion": 1,
+  "implementationDeploymentTx": "0x4ab9cf8e51001f5279ba8379d652734fac655b31399a9aedc65cd3d77d5d67eb",
+  "proxyDeploymentTx": "0xd9626833e506a2bea4dae1fdd9c8ce33c575326bb962486a62338fc92e6021c6",
+  "sourceSha256": "6e6a72d74225c44682d3e28802263836702fade7522fe3e85710a5705468104d",
+  "artifactSha256": "d8a7bda34762225aba671ebfc9b73bf954f2ac0cab93ddfd8d8bc813d2e4c614",
+  "observationDate": "2026-10-17",
+  "currentImplementationRechecked": false,
+  "explorerSourceVerificationConfirmedForThisPackage": false,
+  "note": "Historical deployment provenance. Auditor must independently verify current ERC1967 implementation, owner and bytecode. This package is not an audit report."
+}

@@ -1,0 +1,8 @@
+{
+  "sourceRevision": "024c9ffeb12a021b3440d7523e9dd604e72b3b12",
+  "exportDate": "2026-10-31",
+  "contractSourceSha256": "6e6a72d74225c44682d3e28802263836702fade7522fe3e85710a5705468104d",
+  "originalArtifactSha256": "d8a7bda34762225aba671ebfc9b73bf954f2ac0cab93ddfd8d8bc813d2e4c614",
+  "soliditySourceCount": 15,
+  "note": "Contract, dependency sources and registry artifact are byte-identical exports. Standard JSON input is reconstructed from those sources and the exact artifact settings. Application, credentials and production user data are excluded."
+}

@@ -1,0 +1,6 @@
+node_modules/
+compiler-output.json
+out/
+cache/
+.env
+.env.*
